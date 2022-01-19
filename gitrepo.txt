@@ -1,0 +1,24 @@
+{
+"SAST" : 'env.SAST_GIT_URL="https://github.com/harishpallapu/SourceCode_SAST.git"',
+"BUILD" : 'env.BUILD_GIT_URL="https://github.com/harishpallapu/SourceCode_SAST.git"',
+"TOMCAT_IP" : 'env.TOMCAT_IP="http://mypublicip:8084"',
+"FUNCTIONAL_WEB" : 'env.FUNCTIONAL_WEB_GIT_URL="https://github.com/harishpallapu/webtest.git"',
+"FUNCTIONAL_MOBILE" : 'env.FUNCTIONAL_MOBILE_GIT_URL="https://github.com/harishpallapu/mobiletest.git"',
+"JMETER" : 'env.JMETER_GIT_URL="https://github.com/harishpallapu/folder.git"',
+"NEXUS_IP" : 'env.NEXUS_IP="http://localhost:8081"',
+}
+
+
+{
+"sast" : "env.SAST_GIT_URL='https://github.com/harishpallapu/SourceCode_SAST.git'",
+"build" : "env.BUILD_GIT_URL='https://github.com/harishpallapu/SourceCode_SAST.git'",
+"tomcatIp" : "env.TOMCAT_IP='http://mypublicip:8084'",
+"functionalWeb" : "env.FUNCTIONAL_WEB_GIT_URL='https://github.com/harishpallapu/webtest.git'",
+"fuctionalMobile" : "env.FUNCTIONAL_MOBILE_GIT_URL='https://github.com/harishpallapu/mobiletest.git'",
+"jmeter" : "env.JMETER_GIT_URL='https://github.com/harishpallapu/folder.git'",
+"nexusIp" : "env.NEXUS_IP='http://localhost:8081'"
+}
+
+
+
+
